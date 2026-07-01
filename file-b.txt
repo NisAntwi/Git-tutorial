@@ -1,2 +1,3 @@
-My dad has a big cock
-my mom is too good 
+Git helps developers track changes to files.
+My second Git file is working correctly.
+This is my latest Git update.
